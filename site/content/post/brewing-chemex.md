@@ -1,10 +1,9 @@
 ---
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
+title: All In A Day’s Work
+date: 2019-03-24T12:16:00.000Z
 description: 'All In A Day’s Work - Author: Stephen Douglas'
 image: /img/about-sustainable-farming.jpg
 ---
-
 I rake the fallen camellias
 
 Which lie upon the ground
