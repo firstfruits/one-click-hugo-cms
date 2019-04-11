@@ -5,24 +5,19 @@ values:
   - heading: My Early Life
     imageUrl: /img/stephen-teen.png
     text: >
-      Curabitur aliquet quam id dui posuere blandit. Pellentesque in ipsum id
-      orci porta dapibus. Curabitur aliquet quam id dui posuere blandit. Nulla
-      quis lorem ut libero malesuada feugiat. Nulla porttitor accumsan
-      tincidunt.
-
-
-      Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui.
-      Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur
-      arcu erat, accumsan id imperdiet et, porttitor at sem. Vestibulum ac diam
-      sit amet quam vehicula elementum sed sit amet dui. Praesent sapien massa,
-      convallis a pellentesque nec, egestas non nisi.
-  - heading: Single origin
-    imageUrl: /img/about-single-origin.jpg
-    text: >
-      Single-origin coffee is coffee grown within a single known geographic
-      origin. Sometimes, this is a single farm or a specific collection of beans
-      from a single country. The name of the coffee is then usually the place it
-      was grown to whatever degree available.
+      Curabitur aliquet quam id dui posuere blandit.  Nulla quis lorem ut libero
+      malesuada feugiat. Nulla porttitor accumsan tincidunt. Pellentesque in
+      ipsum id orci porta dapibus. Curabitur aliquet quam id dui posuere
+      blandit. Nulla quis lorem ut libero malesuada feugiat. Nulla porttitor
+      accumsan tincidunt.
+  - heading: My Midlife
+    imageUrl: /img/stephen-midlife.png
+    text: >-
+      Curabitur aliquet quam id dui posuere blandit.  Nulla quis lorem ut libero
+      malesuada feugiat. Nulla porttitor accumsan tincidunt. Pellentesque in
+      ipsum id orci porta dapibus. Curabitur aliquet quam id dui posuere
+      blandit. Nulla quis lorem ut libero malesuada feugiat. Nulla porttitor
+      accumsan tincidunt.
   - heading: Sustainable farming
     imageUrl: /img/about-sustainable-farming.jpg
     text: >
