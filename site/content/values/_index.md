@@ -10,7 +10,7 @@ values:
       ipsum id orci porta dapibus. Curabitur aliquet quam id dui posuere
       blandit. Nulla quis lorem ut libero malesuada feugiat. Nulla porttitor
       accumsan tincidunt.
-  - heading: My Midlife
+  - heading: My Mid Life
     imageUrl: /img/stephen-midlife.png
     text: >-
       Curabitur aliquet quam id dui posuere blandit.  Nulla quis lorem ut libero
