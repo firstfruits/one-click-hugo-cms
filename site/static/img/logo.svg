@@ -7,7 +7,7 @@
 <title>Logo</title>
 <g transform="translate(-1470)" figma:type="canvas">
 	<g transform="translate(1470)" figma:type="vector">
-		<text transform="matrix(1 0 0 1 -7.2476 680.0234)" fill="#FF4400" font-family="'ArialMT'" font-size="371.735">KIWI POET</text>
+		<text transform="matrix(1 0 0 1 369.0479 420.7109)"><tspan x="0" y="0" fill="#FF4400" font-family="'Arial-BoldMT'" font-size="524.1007">KIWI</tspan><tspan x="-131.281" y="628.921" fill="#FF4400" font-family="'Arial-BoldMT'" font-size="524.1007">POET</tspan></text>
 	</g>
 </g>
 </svg>
